@@ -298,4 +298,8 @@ section {
   .contact .card {
     padding: 25px 0;
   }
+  .footer {
+    font-size: 0.8em;
+    padding: 1em;
+  }
 }
