@@ -76,7 +76,7 @@ section {
 }
 .main {
   background-color: #ebf7fa;
-  background: url(images/bg2.png) no-repeat;
+  background: url(images/background-main.png) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
