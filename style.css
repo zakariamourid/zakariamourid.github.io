@@ -216,6 +216,7 @@ section {
 }
 .project-category {
   font-size: 0.8em;
+  height: 40px;
 }
 .project-title {
   display: flex;
