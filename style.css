@@ -178,6 +178,12 @@ section {
   font-size: 7em;
   color: #ff8a00;
 }
+icon {
+  margin-bottom: 20px;
+}
+.icon img {
+  width: 112px;
+}
 .info h3 {
   color: #0d3268;
   margin: 10px;
