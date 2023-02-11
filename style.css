@@ -90,12 +90,12 @@ section {
   display: flex;
   align-items: center;
 }
-.main h2 {
+.main h1 {
   font-weight: 500;
   font-size: 1.6em;
   color: #333333;
 }
-.main h2 span {
+.main h1 span {
   display: inline-block;
   margin-top: 10px;
   color: #ff8a00;
